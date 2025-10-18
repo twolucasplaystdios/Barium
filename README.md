@@ -1,2 +1,2 @@
 # Barium
-A font
+A successor of Caesium & Cascadia code (If its legal).
