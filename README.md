@@ -10,3 +10,4 @@ A successor of Caesium & Cascadia code (If its legal).
 - [ ] Add other languages such as Arabic / Hebrew.
 - [ ] Add Chinese characters
 - [ ] Add ligatures
+- [ ] Add italic variants
