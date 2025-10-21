@@ -6,7 +6,7 @@
   
   ![副](https://img.shields.io/badge/Coverage-No_Data-grey)
   
-  [建議及問題]"https://github.com/twolucasplaystdios/Barium/issues)
+  [建議及問題](https://github.com/twolucasplaystdios/Barium/issues)
   
   
 </p>
