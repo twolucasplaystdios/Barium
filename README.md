@@ -3,9 +3,12 @@
   <br/> 
 </p>
 <p align="center"> 
+  
   ![副](https://img.shields.io/badge/Coverage-No_Data-grey)
   
-  <a href="https://github.com/twolucasplaystdios/Barium/issues">建議及問題</a>
+  [建議及問題]"https://github.com/twolucasplaystdios/Barium/issues)
+  
+  
 </p>
 
 
