@@ -12,7 +12,7 @@
 </p>
 
 
-# Barium
+# Barium [WIP]
 A successor of Caesium & Cascadia code (If its legal).
 
 ## Features
